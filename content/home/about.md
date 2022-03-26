@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    color: "#ffffff"
+    color: "#161515"
 ---
