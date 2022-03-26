@@ -3,10 +3,10 @@ name = "akrinos"
 
 [light]
   # Primary
-  primary = "#E0E6F9"
+  primary = "#A0DDFC"
 
   # Menu
-  menu_primary = "#E0E6F9"
+  menu_primary = "#A0DDFC"
   menu_text = "#060606"
   menu_text_active = "#ffffff"
   menu_title = "#2b2b2b"
@@ -17,7 +17,7 @@ name = "akrinos"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#A0DDFC"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
