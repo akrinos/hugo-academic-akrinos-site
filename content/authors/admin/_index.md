@@ -18,7 +18,7 @@ social:
   - display:
       header: false
     link: https://github.com/akrinos
-    icon_pack: far
+    icon_pack: fas
     icon: github
 organizations:
   - name: Massachusetts Institute of Technology
