@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Laboratory
   - description: Python, R, Matlab, Julia
-    icon: computer-mouse
+    icon: display
     icon_pack: fas
     name: Data Analytics
 design:
