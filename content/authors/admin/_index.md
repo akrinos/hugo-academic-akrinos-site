@@ -1,6 +1,7 @@
 ---
 title: Arianna Krinos
 role: PhD Candidate in Biological Oceanography
+avatar_filename: kayak_headshot.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
