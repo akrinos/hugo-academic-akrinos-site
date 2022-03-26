@@ -6,18 +6,18 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+  - description: Package design & maintenance, sequence data processing, resesarch
+    icon: dna
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Bioinformatics
+  - description: Marine algal culture, molecular biology, chemical & biological measurements
+    icon: flask
     icon_pack: fas
-    name: Photography
+    name: Laboratory
+  - description: Python, R, Matlab, Julia
+    icon: computer-mouse
+    icon_pack: fas
+    name: Data Analytics
 design:
   background:
     image: largevol_experiment.jpeg
