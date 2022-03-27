@@ -1,7 +1,7 @@
 ---
 title: Arianna Krinos
 role: PhD Candidate in Biological Oceanography
-avatar_filename: content/authors/admin/avatar.png
+avatar_filename: avatar.png
 bio: I love thinking about data and algae
 interests:
   - Protists
